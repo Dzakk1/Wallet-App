@@ -1,0 +1,16 @@
+[
+      {
+            "nama": "dzaky",
+            "jenis transaksi": "Pemasukan",
+            "jumlah": 2000,
+            "total saldo": 2000,
+            "catatan": "uang makan"
+      },
+      {
+            "nama": "dzaky",
+            "jenis transaksi": "Pemasukan",
+            "jumlah": 2000,
+            "total saldo": 2000,
+            "catatan": "uang jajan"
+      }
+]
